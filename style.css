@@ -284,13 +284,13 @@ opacity:1;
 .cover{
 	background:#282828; width:900px; margin:0 auto; padding-left:60px;padding-top:36px;
 }
-h2.contact { padding-left: 125px; font-size: 66px; color: #ff5400; height: 105px; background: url(contact.png) no-repeat -10px -10px;  font-family: 'YanoneKaffeesatzRegular';}
+h2.contact { padding-left: 186px; font-size: 66px; color: #ff5400; height: 78px; background: url(contact.png) no-repeat 46px -10px;  font-family: 'YanoneKaffeesatzRegular';}
 p.contact { font-size: 24px; margin-bottom: 15px; line-height: 36px; font-family: 'BebasNeueRegular', Arial; color: #4b4b4b; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2); }
 #contact { margin-bottom: 0px; }
 input[type="text"] { width: 400px; }
-textarea { width: 600px; height: 275px; }
+textarea { width: 796px; height: 136px; }
 label { color: #ff5400; }
-input, textarea { background-color: rgba(255, 255, 255, 0.4); border: 5px solid rgba(122, 192, 0, 0.15); padding: 10px; font-family: Keffeesatz, Arial; color: #4b4b4b; font-size: 24px; -webkit-border-radius: 5px; margin-bottom: 15px; margin-top: -10px; }
+input, textarea { background-color: rgba(255, 255, 255, 0.4); border: 5px solid rgba(122, 192, 0, 0.15); padding: 10px; font-family: Keffeesatz, Arial; color: #4b4b4b; font-size: 24px; -webkit-border-radius: 5px; margin-bottom: 16px; margin-top: -6px; }
 input:focus, textarea:focus { border: 5px solid #ff5400; background-color: rgba(255, 255, 255, 1); }
 
 input[type="submit"] { border: none; cursor: pointer; color: #fff; font-size: 24px; background-color: #7ac000; padding: 5px 36px 8px 36px; -webkit-border-radius: 10px; -moz-border-radius: 10px; -webkit-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4); -moz-box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6); border-bottom: 1px solid rgba(0, 0, 0, 0.4); border-top: 1px solid rgba(255, 255, 255, 0.6);
