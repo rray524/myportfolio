@@ -354,7 +354,7 @@ element.style {
     float: left;
 }
 #u5220_align_to_page {
-    left: -100px;
+    left: 3px;
     margin-left: auto;
     margin-right: auto;
     width: 1150px;
