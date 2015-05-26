@@ -77,10 +77,10 @@ h2 {
     margin-top: 5px;
     padding-left: 5%;
     width: 88%;
-     height: 241px;transition:1s;
+     height: 241px;
 }
 .left_picture img:hover{
-opacity:.6;transition:1s;
+opacity:.6;
 
 .right_skill {
     float: left;
