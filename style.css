@@ -2,7 +2,7 @@
 rahul ray;id-1377
 ****************/
 
-
+          a:focus{outline:none;}
         *{margin:0 }
 
 		nav{text-transform:uppercase;background-color:#565656;height:57px;border-top:1px solid #959595;border-bottom:1px solid #353535;width:1349px; }
