@@ -12,7 +12,7 @@ rahul ray;id-1377
         nav ul.main_nav > li> a { height: 29px;
     padding: 14px;
     position: absolute;
-    width: 142px; }
+    width: 142px;text-align: center; }
 		nav ul.main_nav > li> a:hover{background:#333;text-shadow:0 0 4.5px #888; width: 144px;
     height: 30px; }
 		.yellow{font-size:21px;color:#fdd94b; }
