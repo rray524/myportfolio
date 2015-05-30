@@ -9,7 +9,10 @@ rahul ray;id-1377
 		nav a{text-decoration:none; }
 		.main_nav{list-style-type:none;padding:0;width:63.8%;margin:0 auto;border-left:1px solid #000;border-right:1px solid #939393; height:57px;}
 		nav ul.main_nav > li{float:left;width:170.1px;height:57px;border-left:1px solid #939393;border-right:1px solid #000;position:relative; }
-        nav ul.main_nav > li> a {width:170px;height:57px;position:absolute;padding:14px; }
+        nav ul.main_nav > li> a { height: 29px;
+    padding: 14px;
+    position: absolute;
+    width: 142px; }
 		nav ul.main_nav > li> a:hover{background:#333;text-shadow:0 0 4.5px #888; width: 144px;
     height: 30px; }
 		.yellow{font-size:21px;color:#fdd94b; }
